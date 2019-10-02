@@ -1,0 +1,59 @@
+commit 446c8a40096763b36c5f6a837b197bd112e1446d
+Author: tmuzanenhamo <tmuzanenhamo14@gmail.com>
+Date:   Fri Sep 27 15:17:54 2019 +0200
+
+    Friday
+
+commit 1038306c9337e3f49aa8bb17e5f39e8be07174a5
+Author: tmuzanenhamo <tmuzanenhamo14@gmail.com>
+Date:   Fri Sep 27 02:07:44 2019 +0200
+
+    Calling it a day
+
+commit 1984676bd3fb00168189fa3f002089bc526994ee
+Author: tmuzanenhamo <tmuzanenhamo14@gmail.com>
+Date:   Fri Sep 27 01:45:49 2019 +0200
+
+    Fixed by synchronizing stuff
+
+commit 14e23c2a8f8a4c911998a1ebfad395357e35db8e
+Author: tmuzanenhamo <tmuzanenhamo14@gmail.com>
+Date:   Fri Sep 27 01:41:45 2019 +0200
+
+    Race condtions detected
+
+commit ed249caef27c6ee11280d19644148e42f759ae17
+Author: tmuzanenhamo <tmuzanenhamo14@gmail.com>
+Date:   Thu Sep 26 23:27:13 2019 +0200
+
+    Hours later
+
+commit 654c10f7eb482a847e2e15b1075b129627dc6e6c
+Author: tmuzanenhamo <tmuzanenhamo14@gmail.com>
+Date:   Thu Sep 26 22:13:21 2019 +0200
+
+    Partial Report
+
+commit 25f9a93d264e4a7aae3365200aed4c2859ba450a
+Author: tmuzanenhamo <tmuzanenhamo14@gmail.com>
+Date:   Thu Sep 26 01:51:16 2019 +0200
+
+    Progress made
+
+commit 80fe12d0bc1fa76ef593b0619d89d8a99d6d5e77
+Author: tmuzanenhamo <tmuzanenhamo14@gmail.com>
+Date:   Wed Sep 25 11:59:35 2019 +0200
+
+    Fixed freezing
+
+commit 3bcdb5c51226f3d9f7364504c9cf33e1b82123bd
+Author: tmuzanenhamo <tmuzanenhamo14@gmail.com>
+Date:   Wed Sep 25 11:49:34 2019 +0200
+
+    Made Atomic Variables
+
+commit 5a46000ceb7e18ed870397d8e610e081aaed7c98
+Author: tmuzanenhamo <tmuzanenhamo14@gmail.com>
+Date:   Wed Sep 25 11:31:39 2019 +0200
+
+    Got the game working

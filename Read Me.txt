@@ -1,0 +1,7 @@
+To run the program type..
+
+1. Make compiles the file
+2. cd src
+3. java WordApp totalWords numberOfWords textFileDestination i.e java WordApp 10 6 example_dict.txt
+
+If the file is not found the game will stard with the default dictionary
